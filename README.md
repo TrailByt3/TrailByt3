@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm TrailByt3 👋
 
-<!--
-**TrailByt3/TrailByt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I'm a passionate developer focused on the **.NET ecosystem** and **Clean Architecture**.
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+- 💻 Deep diving into sophisticated backend systems with .NET and C#.
+- 🛠️ Perfecting Git workflows and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** C#
+- **Frameworks:** .NET / .NET Core
+- **Database:** SQL Server
+- **Version Control:** Git, GitHub
+- **Workflow:** Clean Architecture, TDD
+
+## 🏔️ Beyond Coding
+When I'm not crafting code, you can usually find me hitting the downhill trails or enjoying the beauty of nature in the mountains.
