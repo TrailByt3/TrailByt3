@@ -1,7 +1,7 @@
 # Hi there, I'm TrailByt3 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TrailByt3/TrailByt3/master/Banner.png" alt="TrailByt3 Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/TrailByt3/TrailByt3/master/ProfileBanner.png" alt="TrailByt3 Banner" width="100%">
 </p>
 
 Welcome to my digital workspace. I'm a software developer focused on building robust backend systems within the **.NET ecosystem** and mastering clean version control workflows.
