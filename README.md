@@ -20,6 +20,10 @@ Welcome to my digital workspace. I'm a software developer focused on building ro
   <img src="https://img.shields.io/badge/Project_Management-Jira-0052CC?style=flat-square" alt="Jira">
 </p>
 
+## 🚀 Featured Project
+### 🛡️ [Heimdall - Network Port Scanner & Security Dashboard](https://github.com/TrailByt3/Heimdall_-_Network_Port_Scanner_and_Security_Dashboard)
+A web-based network security dashboard designed for automated TCP port monitoring with real-time alerts. Built to keep environments secure and monitored efficiently.
+
 ## 🏔️ Off-the-Grid
 When I'm not pushing commits or refactoring code, you can usually find me finding the perfect line on a downhill trail or enjoying the quiet challenge of the mountains.
 
